@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <odoo>
     <data>
-        <menuitem name="Mis Reservas" id="ofimatica_reservations_parent_menu" sequence="45" web_icon="ofimatica_reservations,static/description/icon5.png"/>
+        <menuitem name="Mis Reservas" id="ofimatica_reservations_parent_menu" sequence="45" web_icon="ofimatica_reservations,static/description/icon3.jpg"/>
         <menuitem name="Agendamiento" id="ofimatica_reservations_agendamiento_menu" action="board.open_board_my_dash_action" parent="ofimatica_reservations_parent_menu" sequence="10"/>
         <menuitem name="Morosos" id="ofimatica_reservations_morosos_menu"  action="board.open_board_my_dash_action" parent="ofimatica_reservations_parent_menu" sequence="20" />
         <menuitem name="Configuracion" id="ofimatica_reservations_config_menu" action="board.open_board_my_dash_action" parent="ofimatica_reservations_parent_menu" sequence="220"/>
